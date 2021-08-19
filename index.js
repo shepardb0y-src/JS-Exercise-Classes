@@ -8,7 +8,7 @@
         + If a plane lands, its `isFlying` property gets set to false.
 */
 
-// EXAMPLE SOLUTION CODE:
+// EXAMPLE SOLUTION CODE: test
 class Airplane {
   constructor(name) {
     this.name = name;
